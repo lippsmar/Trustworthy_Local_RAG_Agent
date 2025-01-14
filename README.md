@@ -4,6 +4,8 @@ The **RAG Agent** (Retrieval-Augmented Generation) ensures you receive **trustwo
 
 By combining **knowledge retrieval** and **AI**, the RAG Agent guarantees that all responses are **well-founded and verifiable** – eliminating hallucinations (false or fabricated information) to a minimum.  
 
+![non_hallu_RAG](https://github.com/user-attachments/assets/7038e519-7c3e-4162-80ac-7e92e5e55b83)
+
 ---
 
 ## 🌟 Key Features  
