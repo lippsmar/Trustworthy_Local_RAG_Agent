@@ -2,7 +2,7 @@
 
 The **RAG Agent** (Retrieval-Augmented Generation) ensures you receive **trustworthy answers** to complex and specialized questions.  
 
-By combining **knowledge retrieval** and **AI**, the RAG Agent guarantees that all responses are **well-founded and verifiable** – eliminating hallucinations (false or fabricated information) entirely.  
+By combining **knowledge retrieval** and **AI**, the RAG Agent guarantees that all responses are **well-founded and verifiable** – eliminating hallucinations (false or fabricated information) to a minimum.  
 
 ---
 
