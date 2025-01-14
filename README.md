@@ -68,11 +68,4 @@ The result? Answers that are not only insightful but also **factually accurate**
 
 ---
 
-## 📋 License  
-
-This project is licensed under the [MIT License](LICENSE).  
-We welcome your feedback and contributions!  
-
----
-
 💬 With the RAG Agent, you have a tool that not only delivers impressive answers but also validates them – ensuring trust in AI. 🌟  
