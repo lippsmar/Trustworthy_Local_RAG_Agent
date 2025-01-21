@@ -1,4 +1,4 @@
-# 🤖 RAG Agent: Reliable Answers with Smart AI  
+# 🤖 RAG Agent: Reliable Answers without Hallucination
 
 The **RAG Agent** (Retrieval-Augmented Generation) ensures you receive **trustworthy answers** to complex and specialized questions.  
 
